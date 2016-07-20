@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  color: pink;
+  font-size: 8em;
+  text-shadow: 10px 10px black;
+  display: inline-block;
+}
+
+h3{
+  text-align: center;
+  color: pink;
+  font-size: 4em;
+  text-shadow: 10px 10px black;
+
+}
+
+header{
+  text-align: center;
+  color: pink;
+  font-size: 8em;
+  text-shadow: 10px 10px black;
+  display: inline-block;
+  margin-left: 1.5em;
+  margin-bottom: .5em;
+  margin-top: .5em;
+
+}
